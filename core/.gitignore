@@ -1,0 +1,26 @@
+# Python virtual environment files at repository root
+/activate
+/activate.bat
+/activate.fish
+/Activate.ps1
+/deactivate.bat
+/django-admin.exe
+/pip.exe
+/pip3.exe
+/pip3.13.exe
+/python.exe
+/pythonw.exe
+/sqlformat.exe
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local database and secrets
+core/db.sqlite3
+.env
+.env.*
+
+# Other virtual environments
+.venv/
+venv/
